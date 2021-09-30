@@ -40,7 +40,7 @@
                 },
                 "constructInfo": {
                   "fqn": "@aws-cdk/aws-ec2.CfnVPC",
-                  "version": "1.124.0"
+                  "version": "1.125.0"
                 }
               },
               "VPC-tsc-PublicSubnet1": {
@@ -84,7 +84,7 @@
                     },
                     "constructInfo": {
                       "fqn": "@aws-cdk/aws-ec2.CfnSubnet",
-                      "version": "1.124.0"
+                      "version": "1.125.0"
                     }
                   },
                   "Acl": {
@@ -92,7 +92,7 @@
                     "path": "VpcCdkStack/VPC-tsc/VPC-tsc-PublicSubnet1/Acl",
                     "constructInfo": {
                       "fqn": "@aws-cdk/core.Resource",
-                      "version": "1.124.0"
+                      "version": "1.125.0"
                     }
                   },
                   "RouteTable": {
@@ -114,7 +114,7 @@
                     },
                     "constructInfo": {
                       "fqn": "@aws-cdk/aws-ec2.CfnRouteTable",
-                      "version": "1.124.0"
+                      "version": "1.125.0"
                     }
                   },
                   "RouteTableAssociation": {
@@ -133,7 +133,7 @@
                     },
                     "constructInfo": {
                       "fqn": "@aws-cdk/aws-ec2.CfnSubnetRouteTableAssociation",
-                      "version": "1.124.0"
+                      "version": "1.125.0"
                     }
                   },
                   "DefaultRoute": {
@@ -153,13 +153,13 @@
                     },
                     "constructInfo": {
                       "fqn": "@aws-cdk/aws-ec2.CfnRoute",
-                      "version": "1.124.0"
+                      "version": "1.125.0"
                     }
                   }
                 },
                 "constructInfo": {
                   "fqn": "@aws-cdk/aws-ec2.PublicSubnet",
-                  "version": "1.124.0"
+                  "version": "1.125.0"
                 }
               },
               "VPC-tsc-PublicSubnet2": {
@@ -203,7 +203,7 @@
                     },
                     "constructInfo": {
                       "fqn": "@aws-cdk/aws-ec2.CfnSubnet",
-                      "version": "1.124.0"
+                      "version": "1.125.0"
                     }
                   },
                   "Acl": {
@@ -211,7 +211,7 @@
                     "path": "VpcCdkStack/VPC-tsc/VPC-tsc-PublicSubnet2/Acl",
                     "constructInfo": {
                       "fqn": "@aws-cdk/core.Resource",
-                      "version": "1.124.0"
+                      "version": "1.125.0"
                     }
                   },
                   "RouteTable": {
@@ -233,7 +233,7 @@
                     },
                     "constructInfo": {
                       "fqn": "@aws-cdk/aws-ec2.CfnRouteTable",
-                      "version": "1.124.0"
+                      "version": "1.125.0"
                     }
                   },
                   "RouteTableAssociation": {
@@ -252,7 +252,7 @@
                     },
                     "constructInfo": {
                       "fqn": "@aws-cdk/aws-ec2.CfnSubnetRouteTableAssociation",
-                      "version": "1.124.0"
+                      "version": "1.125.0"
                     }
                   },
                   "DefaultRoute": {
@@ -272,13 +272,13 @@
                     },
                     "constructInfo": {
                       "fqn": "@aws-cdk/aws-ec2.CfnRoute",
-                      "version": "1.124.0"
+                      "version": "1.125.0"
                     }
                   }
                 },
                 "constructInfo": {
                   "fqn": "@aws-cdk/aws-ec2.PublicSubnet",
-                  "version": "1.124.0"
+                  "version": "1.125.0"
                 }
               },
               "VPC-tsc-PrivateSubnet1": {
@@ -322,7 +322,7 @@
                     },
                     "constructInfo": {
                       "fqn": "@aws-cdk/aws-ec2.CfnSubnet",
-                      "version": "1.124.0"
+                      "version": "1.125.0"
                     }
                   },
                   "Acl": {
@@ -330,7 +330,7 @@
                     "path": "VpcCdkStack/VPC-tsc/VPC-tsc-PrivateSubnet1/Acl",
                     "constructInfo": {
                       "fqn": "@aws-cdk/core.Resource",
-                      "version": "1.124.0"
+                      "version": "1.125.0"
                     }
                   },
                   "RouteTable": {
@@ -352,7 +352,7 @@
                     },
                     "constructInfo": {
                       "fqn": "@aws-cdk/aws-ec2.CfnRouteTable",
-                      "version": "1.124.0"
+                      "version": "1.125.0"
                     }
                   },
                   "RouteTableAssociation": {
@@ -371,13 +371,13 @@
                     },
                     "constructInfo": {
                       "fqn": "@aws-cdk/aws-ec2.CfnSubnetRouteTableAssociation",
-                      "version": "1.124.0"
+                      "version": "1.125.0"
                     }
                   }
                 },
                 "constructInfo": {
                   "fqn": "@aws-cdk/aws-ec2.PrivateSubnet",
-                  "version": "1.124.0"
+                  "version": "1.125.0"
                 }
               },
               "VPC-tsc-PrivateSubnet2": {
@@ -421,7 +421,7 @@
                     },
                     "constructInfo": {
                       "fqn": "@aws-cdk/aws-ec2.CfnSubnet",
-                      "version": "1.124.0"
+                      "version": "1.125.0"
                     }
                   },
                   "Acl": {
@@ -429,7 +429,7 @@
                     "path": "VpcCdkStack/VPC-tsc/VPC-tsc-PrivateSubnet2/Acl",
                     "constructInfo": {
                       "fqn": "@aws-cdk/core.Resource",
-                      "version": "1.124.0"
+                      "version": "1.125.0"
                     }
                   },
                   "RouteTable": {
@@ -451,7 +451,7 @@
                     },
                     "constructInfo": {
                       "fqn": "@aws-cdk/aws-ec2.CfnRouteTable",
-                      "version": "1.124.0"
+                      "version": "1.125.0"
                     }
                   },
                   "RouteTableAssociation": {
@@ -470,13 +470,13 @@
                     },
                     "constructInfo": {
                       "fqn": "@aws-cdk/aws-ec2.CfnSubnetRouteTableAssociation",
-                      "version": "1.124.0"
+                      "version": "1.125.0"
                     }
                   }
                 },
                 "constructInfo": {
                   "fqn": "@aws-cdk/aws-ec2.PrivateSubnet",
-                  "version": "1.124.0"
+                  "version": "1.125.0"
                 }
               },
               "IGW": {
@@ -495,7 +495,7 @@
                 },
                 "constructInfo": {
                   "fqn": "@aws-cdk/aws-ec2.CfnInternetGateway",
-                  "version": "1.124.0"
+                  "version": "1.125.0"
                 }
               },
               "VPCGW": {
@@ -514,13 +514,13 @@
                 },
                 "constructInfo": {
                   "fqn": "@aws-cdk/aws-ec2.CfnVPCGatewayAttachment",
-                  "version": "1.124.0"
+                  "version": "1.125.0"
                 }
               }
             },
             "constructInfo": {
               "fqn": "@aws-cdk/aws-ec2.Vpc",
-              "version": "1.124.0"
+              "version": "1.125.0"
             }
           },
           "CDKMetadata": {
@@ -538,6 +538,262 @@
               "Condition": {
                 "id": "Condition",
                 "path": "VpcCdkStack/CDKMetadata/Condition",
+                "constructInfo": {
+                  "fqn": "@aws-cdk/core.CfnCondition",
+                  "version": "1.124.0"
+                }
+              }
+            },
+            "constructInfo": {
+              "fqn": "@aws-cdk/core.Construct",
+              "version": "1.124.0"
+            }
+          }
+        },
+        "constructInfo": {
+          "fqn": "@aws-cdk/core.Stack",
+          "version": "1.124.0"
+        }
+      },
+      "IamCdkStack": {
+        "id": "IamCdkStack",
+        "path": "IamCdkStack",
+        "children": {
+          "myrole-tsc": {
+            "id": "myrole-tsc",
+            "path": "IamCdkStack/myrole-tsc",
+            "children": {
+              "Resource": {
+                "id": "Resource",
+                "path": "IamCdkStack/myrole-tsc/Resource",
+                "attributes": {
+                  "aws:cdk:cloudformation:type": "AWS::IAM::Role",
+                  "aws:cdk:cloudformation:props": {
+                    "assumeRolePolicyDocument": {
+                      "Statement": [
+                        {
+                          "Action": "sts:AssumeRole",
+                          "Effect": "Allow",
+                          "Principal": {
+                            "Service": {
+                              "Fn::Join": [
+                                "",
+                                [
+                                  "ec2.",
+                                  {
+                                    "Ref": "AWS::URLSuffix"
+                                  }
+                                ]
+                              ]
+                            }
+                          }
+                        }
+                      ],
+                      "Version": "2012-10-17"
+                    }
+                  }
+                },
+                "constructInfo": {
+                  "fqn": "@aws-cdk/aws-iam.CfnRole",
+                  "version": "1.125.0"
+                }
+              },
+              "DefaultPolicy": {
+                "id": "DefaultPolicy",
+                "path": "IamCdkStack/myrole-tsc/DefaultPolicy",
+                "children": {
+                  "Resource": {
+                    "id": "Resource",
+                    "path": "IamCdkStack/myrole-tsc/DefaultPolicy/Resource",
+                    "attributes": {
+                      "aws:cdk:cloudformation:type": "AWS::IAM::Policy",
+                      "aws:cdk:cloudformation:props": {
+                        "policyDocument": {
+                          "Statement": [
+                            {
+                              "Action": [
+                                "s3:Get*",
+                                "s3:List*",
+                                "s3-object-lambda:Get*",
+                                "s3-object-lambda:List*"
+                              ],
+                              "Effect": "Allow",
+                              "Resource": "*"
+                            }
+                          ],
+                          "Version": "2012-10-17"
+                        },
+                        "policyName": "myroletscDefaultPolicy01456234",
+                        "roles": [
+                          {
+                            "Ref": "myroletscE570167D"
+                          }
+                        ]
+                      }
+                    },
+                    "constructInfo": {
+                      "fqn": "@aws-cdk/aws-iam.CfnPolicy",
+                      "version": "1.125.0"
+                    }
+                  }
+                },
+                "constructInfo": {
+                  "fqn": "@aws-cdk/aws-iam.Policy",
+                  "version": "1.125.0"
+                }
+              }
+            },
+            "constructInfo": {
+              "fqn": "@aws-cdk/aws-iam.Role",
+              "version": "1.125.0"
+            }
+          },
+          "User1": {
+            "id": "User1",
+            "path": "IamCdkStack/User1",
+            "children": {
+              "Resource": {
+                "id": "Resource",
+                "path": "IamCdkStack/User1/Resource",
+                "attributes": {
+                  "aws:cdk:cloudformation:type": "AWS::IAM::User",
+                  "aws:cdk:cloudformation:props": {
+                    "groups": [
+                      {
+                        "Ref": "Group1BEBD4686"
+                      }
+                    ],
+                    "userName": "User1"
+                  }
+                },
+                "constructInfo": {
+                  "fqn": "@aws-cdk/aws-iam.CfnUser",
+                  "version": "1.125.0"
+                }
+              },
+              "DefaultPolicy": {
+                "id": "DefaultPolicy",
+                "path": "IamCdkStack/User1/DefaultPolicy",
+                "children": {
+                  "Resource": {
+                    "id": "Resource",
+                    "path": "IamCdkStack/User1/DefaultPolicy/Resource",
+                    "attributes": {
+                      "aws:cdk:cloudformation:type": "AWS::IAM::Policy",
+                      "aws:cdk:cloudformation:props": {
+                        "policyDocument": {
+                          "Statement": [
+                            {
+                              "Action": "s3:*",
+                              "Effect": "Allow",
+                              "Resource": "*"
+                            }
+                          ],
+                          "Version": "2012-10-17"
+                        },
+                        "policyName": "User1DefaultPolicy8C24FEE1",
+                        "users": [
+                          {
+                            "Ref": "User1E278A736"
+                          }
+                        ]
+                      }
+                    },
+                    "constructInfo": {
+                      "fqn": "@aws-cdk/aws-iam.CfnPolicy",
+                      "version": "1.125.0"
+                    }
+                  }
+                },
+                "constructInfo": {
+                  "fqn": "@aws-cdk/aws-iam.Policy",
+                  "version": "1.125.0"
+                }
+              }
+            },
+            "constructInfo": {
+              "fqn": "@aws-cdk/aws-iam.User",
+              "version": "1.125.0"
+            }
+          },
+          "Group1": {
+            "id": "Group1",
+            "path": "IamCdkStack/Group1",
+            "children": {
+              "Resource": {
+                "id": "Resource",
+                "path": "IamCdkStack/Group1/Resource",
+                "attributes": {
+                  "aws:cdk:cloudformation:type": "AWS::IAM::Group",
+                  "aws:cdk:cloudformation:props": {
+                    "groupName": "Group1"
+                  }
+                },
+                "constructInfo": {
+                  "fqn": "@aws-cdk/aws-iam.CfnGroup",
+                  "version": "1.125.0"
+                }
+              },
+              "DefaultPolicy": {
+                "id": "DefaultPolicy",
+                "path": "IamCdkStack/Group1/DefaultPolicy",
+                "children": {
+                  "Resource": {
+                    "id": "Resource",
+                    "path": "IamCdkStack/Group1/DefaultPolicy/Resource",
+                    "attributes": {
+                      "aws:cdk:cloudformation:type": "AWS::IAM::Policy",
+                      "aws:cdk:cloudformation:props": {
+                        "policyDocument": {
+                          "Statement": [
+                            {
+                              "Action": "s3:*",
+                              "Effect": "Allow",
+                              "Resource": "*"
+                            }
+                          ],
+                          "Version": "2012-10-17"
+                        },
+                        "policyName": "Group1DefaultPolicyDEB7EE97",
+                        "groups": [
+                          {
+                            "Ref": "Group1BEBD4686"
+                          }
+                        ]
+                      }
+                    },
+                    "constructInfo": {
+                      "fqn": "@aws-cdk/aws-iam.CfnPolicy",
+                      "version": "1.125.0"
+                    }
+                  }
+                },
+                "constructInfo": {
+                  "fqn": "@aws-cdk/aws-iam.Policy",
+                  "version": "1.125.0"
+                }
+              }
+            },
+            "constructInfo": {
+              "fqn": "@aws-cdk/aws-iam.Group",
+              "version": "1.125.0"
+            }
+          },
+          "CDKMetadata": {
+            "id": "CDKMetadata",
+            "path": "IamCdkStack/CDKMetadata",
+            "children": {
+              "Default": {
+                "id": "Default",
+                "path": "IamCdkStack/CDKMetadata/Default",
+                "constructInfo": {
+                  "fqn": "@aws-cdk/core.CfnResource",
+                  "version": "1.124.0"
+                }
+              },
+              "Condition": {
+                "id": "Condition",
+                "path": "IamCdkStack/CDKMetadata/Condition",
                 "constructInfo": {
                   "fqn": "@aws-cdk/core.CfnCondition",
                   "version": "1.124.0"

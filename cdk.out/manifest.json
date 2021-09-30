@@ -22,7 +22,7 @@
             "trace": [
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:741:21)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:7:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -54,7 +54,7 @@
               "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:7:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -86,7 +86,7 @@
               "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:7:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -118,7 +118,7 @@
               "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:7:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -147,7 +147,7 @@
               "Array.forEach (<anonymous>)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:788:46)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:7:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -179,7 +179,7 @@
               "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:7:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -211,7 +211,7 @@
               "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:7:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -243,7 +243,7 @@
               "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:7:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -272,7 +272,7 @@
               "Array.forEach (<anonymous>)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:788:46)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:7:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -304,7 +304,7 @@
               "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:7:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -336,7 +336,7 @@
               "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:7:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -368,7 +368,7 @@
               "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:7:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -400,7 +400,7 @@
               "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:7:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -432,7 +432,7 @@
               "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:7:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -464,7 +464,7 @@
               "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:7:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -490,7 +490,7 @@
             "trace": [
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:777:19)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:7:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -516,7 +516,7 @@
             "trace": [
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:783:19)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:7:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -577,6 +577,219 @@
         ]
       },
       "displayName": "VpcCdkStack"
+    },
+    "IamCdkStack": {
+      "type": "aws:cloudformation:stack",
+      "environment": "aws://unknown-account/unknown-region",
+      "properties": {
+        "templateFile": "IamCdkStack.template.json",
+        "validateOnSynth": false
+      },
+      "metadata": {
+        "/IamCdkStack/myrole-tsc/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "myroletscE570167D",
+            "trace": [
+              "new Role (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-iam\\lib\\role.ts:199:18)",
+              "new IAMCdkStack (D:\\Typescript\\vpc-cdk\\lib\\IAM-cdk-stack.ts:13:20)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/IamCdkStack/myrole-tsc/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "myroletscDefaultPolicy01456234",
+            "trace": [
+              "new Policy (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-iam\\lib\\policy.ts:89:22)",
+              "Role.addToPrincipalPolicy (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-iam\\lib\\role.ts:236:28)",
+              "Role.addToPolicy (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-iam\\lib\\role.ts:244:17)",
+              "new IAMCdkStack (D:\\Typescript\\vpc-cdk\\lib\\IAM-cdk-stack.ts:18:12)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/IamCdkStack/User1/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "User1E278A736",
+            "trace": [
+              "new User (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-iam\\lib\\user.ts:148:18)",
+              "new IAMCdkStack (D:\\Typescript\\vpc-cdk\\lib\\IAM-cdk-stack.ts:27:19)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/IamCdkStack/User1/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "User1DefaultPolicy8C24FEE1",
+            "trace": [
+              "new Policy (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-iam\\lib\\policy.ts:89:22)",
+              "User.addToPrincipalPolicy (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-iam\\lib\\user.ts:192:28)",
+              "User.addToPolicy (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-iam\\lib\\user.ts:201:17)",
+              "new IAMCdkStack (D:\\Typescript\\vpc-cdk\\lib\\IAM-cdk-stack.ts:31:13)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/IamCdkStack/Group1/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "Group1BEBD4686",
+            "trace": [
+              "new Group (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-iam\\lib\\group.ts:106:19)",
+              "new IAMCdkStack (D:\\Typescript\\vpc-cdk\\lib\\IAM-cdk-stack.ts:40:20)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/IamCdkStack/Group1/DefaultPolicy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "Group1DefaultPolicyDEB7EE97",
+            "trace": [
+              "new Policy (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-iam\\lib\\policy.ts:89:22)",
+              "Group.addToPrincipalPolicy (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-iam\\lib\\group.ts:66:28)",
+              "Group.addToPolicy (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-iam\\lib\\group.ts:75:17)",
+              "new IAMCdkStack (D:\\Typescript\\vpc-cdk\\lib\\IAM-cdk-stack.ts:46:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/IamCdkStack/CDKMetadata/Default": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CDKMetadata",
+            "trace": [
+              "new MetadataResource (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\metadata-resource.ts:22:24)",
+              "D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\synthesis.ts:166:5",
+              "visit (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\synthesis.ts:231:5)",
+              "visit (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\synthesis.ts:227:5)",
+              "injectMetadataResources (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\synthesis.ts:157:3)",
+              "Object.synthesize (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\synthesis.ts:18:3)",
+              "App.synth (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\stage.ts:94:23)",
+              "process.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\app.ts:64:45)",
+              "Object.onceWrapper (events.js:520:26)",
+              "process.emit (events.js:400:28)",
+              "process.emit (domain.js:470:12)",
+              "process.emit (D:\\Typescript\\vpc-cdk\\node_modules\\source-map-support\\source-map-support.js:516:21)"
+            ]
+          }
+        ],
+        "/IamCdkStack/CDKMetadata/Condition": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CDKMetadataAvailable",
+            "trace": [
+              "new MetadataResource (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\metadata-resource.ts:31:27)",
+              "D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\synthesis.ts:166:5",
+              "visit (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\synthesis.ts:231:5)",
+              "visit (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\synthesis.ts:227:5)",
+              "injectMetadataResources (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\synthesis.ts:157:3)",
+              "Object.synthesize (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\synthesis.ts:18:3)",
+              "App.synth (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\stage.ts:94:23)",
+              "process.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\app.ts:64:45)",
+              "Object.onceWrapper (events.js:520:26)",
+              "process.emit (events.js:400:28)",
+              "process.emit (domain.js:470:12)",
+              "process.emit (D:\\Typescript\\vpc-cdk\\node_modules\\source-map-support\\source-map-support.js:516:21)"
+            ]
+          }
+        ]
+      },
+      "displayName": "IamCdkStack"
     }
   }
 }
