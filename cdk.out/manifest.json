@@ -22,7 +22,7 @@
             "trace": [
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:741:21)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -54,7 +54,7 @@
               "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -86,7 +86,7 @@
               "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -118,7 +118,7 @@
               "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -147,7 +147,7 @@
               "Array.forEach (<anonymous>)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:788:46)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -179,7 +179,7 @@
               "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -211,7 +211,7 @@
               "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -243,7 +243,7 @@
               "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -272,7 +272,7 @@
               "Array.forEach (<anonymous>)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:788:46)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -304,7 +304,7 @@
               "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -336,7 +336,7 @@
               "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -368,7 +368,7 @@
               "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -400,7 +400,7 @@
               "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -432,7 +432,7 @@
               "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -464,7 +464,7 @@
               "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -490,7 +490,7 @@
             "trace": [
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:777:19)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -516,7 +516,7 @@
             "trace": [
               "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:783:19)",
               "new VpcCdkStack (D:\\Typescript\\vpc-cdk\\lib\\vpc-cdk-stack.ts:13:15)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:8:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -593,7 +593,7 @@
             "trace": [
               "new Role (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-iam\\lib\\role.ts:199:18)",
               "new IAMCdkStack (D:\\Typescript\\vpc-cdk\\lib\\IAM-cdk-stack.ts:13:20)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:10:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -621,7 +621,7 @@
               "Role.addToPrincipalPolicy (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-iam\\lib\\role.ts:236:28)",
               "Role.addToPolicy (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-iam\\lib\\role.ts:244:17)",
               "new IAMCdkStack (D:\\Typescript\\vpc-cdk\\lib\\IAM-cdk-stack.ts:18:12)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:10:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -647,7 +647,7 @@
             "trace": [
               "new User (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-iam\\lib\\user.ts:148:18)",
               "new IAMCdkStack (D:\\Typescript\\vpc-cdk\\lib\\IAM-cdk-stack.ts:27:19)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:10:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -675,7 +675,7 @@
               "User.addToPrincipalPolicy (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-iam\\lib\\user.ts:192:28)",
               "User.addToPolicy (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-iam\\lib\\user.ts:201:17)",
               "new IAMCdkStack (D:\\Typescript\\vpc-cdk\\lib\\IAM-cdk-stack.ts:31:13)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:10:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -701,7 +701,7 @@
             "trace": [
               "new Group (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-iam\\lib\\group.ts:106:19)",
               "new IAMCdkStack (D:\\Typescript\\vpc-cdk\\lib\\IAM-cdk-stack.ts:40:20)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:10:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -729,7 +729,7 @@
               "Group.addToPrincipalPolicy (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-iam\\lib\\group.ts:66:28)",
               "Group.addToPolicy (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-iam\\lib\\group.ts:75:17)",
               "new IAMCdkStack (D:\\Typescript\\vpc-cdk\\lib\\IAM-cdk-stack.ts:46:14)",
-              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:9:1)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:10:1)",
               "Module._compile (internal/modules/cjs/loader.js:1072:14)",
               "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
               "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
@@ -790,6 +790,1163 @@
         ]
       },
       "displayName": "IamCdkStack"
+    },
+    "EC2RDSStack": {
+      "type": "aws:cloudformation:stack",
+      "environment": "aws://unknown-account/unknown-region",
+      "properties": {
+        "templateFile": "EC2RDSStack.template.json",
+        "validateOnSynth": false
+      },
+      "metadata": {
+        "/EC2RDSStack": [
+          {
+            "type": "aws:cdk:asset",
+            "data": {
+              "path": "asset.00f2465b209575c44977ca8ff1c81d86d002849272ede5a8a90ac87dfff1e494",
+              "id": "00f2465b209575c44977ca8ff1c81d86d002849272ede5a8a90ac87dfff1e494",
+              "packaging": "zip",
+              "sourceHash": "00f2465b209575c44977ca8ff1c81d86d002849272ede5a8a90ac87dfff1e494",
+              "s3BucketParameter": "AssetParameters00f2465b209575c44977ca8ff1c81d86d002849272ede5a8a90ac87dfff1e494S3Bucket33B61C3E",
+              "s3KeyParameter": "AssetParameters00f2465b209575c44977ca8ff1c81d86d002849272ede5a8a90ac87dfff1e494S3VersionKeyDE2514FF",
+              "artifactHashParameter": "AssetParameters00f2465b209575c44977ca8ff1c81d86d002849272ede5a8a90ac87dfff1e494ArtifactHashC2E6E6C0"
+            },
+            "trace": [
+              "ConstructNode.addMetadata (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\construct-compat.ts:252:92)",
+              "LegacyStackSynthesizer.doAddFileAsset (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\stack-synthesizers\\legacy.ts:161:23)",
+              "LegacyStackSynthesizer.addFileAsset (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\stack-synthesizers\\legacy.ts:66:19)",
+              "EC2RDSStack.addFileAsset (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\stack.ts:355:29)",
+              "LegacyStackSynthesizer.addFileAsset (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\stack-synthesizers\\legacy.ts:70:25)",
+              "EC2RDSStack.addFileAsset (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\stack.ts:355:29)",
+              "new CustomResourceProvider (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\node_modules\\@aws-cdk\\core\\lib\\custom-resource-provider\\custom-resource-provider.ts:97:25)",
+              "Function.getOrCreateProvider (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\node_modules\\@aws-cdk\\core\\lib\\custom-resource-provider\\custom-resource-provider.ts:69:10)",
+              "Bucket.enableAutoDeleteObjects (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\lib\\bucket.ts:1149:45)",
+              "new Bucket (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\lib\\bucket.ts:780:12)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:104:5)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/VPC-tsc/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "VPCtsc31BA0A15",
+            "trace": [
+              "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:741:21)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:17:15)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/VPC-tsc/VPC-tsc-PublicSubnet1/Subnet": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "VPCtscVPCtscPublicSubnet1SubnetBAF5A5AF",
+            "trace": [
+              "new Subnet (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1028:20)",
+              "new PublicSubnet (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1184:5)",
+              "D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:913:32",
+              "Array.forEach (<anonymous>)",
+              "Vpc.createSubnetResources (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:895:28)",
+              "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
+              "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:17:15)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/VPC-tsc/VPC-tsc-PublicSubnet1/RouteTable": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "VPCtscVPCtscPublicSubnet1RouteTable2BB4B132",
+            "trace": [
+              "new Subnet (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1046:19)",
+              "new PublicSubnet (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1184:5)",
+              "D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:913:32",
+              "Array.forEach (<anonymous>)",
+              "Vpc.createSubnetResources (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:895:28)",
+              "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
+              "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:17:15)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/VPC-tsc/VPC-tsc-PublicSubnet1/RouteTableAssociation": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "VPCtscVPCtscPublicSubnet1RouteTableAssociation003EFC81",
+            "trace": [
+              "new Subnet (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1052:5)",
+              "new PublicSubnet (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1184:5)",
+              "D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:913:32",
+              "Array.forEach (<anonymous>)",
+              "Vpc.createSubnetResources (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:895:28)",
+              "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
+              "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:17:15)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/VPC-tsc/VPC-tsc-PublicSubnet1/DefaultRoute": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "VPCtscVPCtscPublicSubnet1DefaultRoute4B57B83B",
+            "trace": [
+              "PublicSubnet.addDefaultInternetRoute (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1062:19)",
+              "D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:789:22",
+              "Array.forEach (<anonymous>)",
+              "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:788:46)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:17:15)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/VPC-tsc/VPC-tsc-PublicSubnet2/Subnet": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "VPCtscVPCtscPublicSubnet2Subnet8CF14F79",
+            "trace": [
+              "new Subnet (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1028:20)",
+              "new PublicSubnet (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1184:5)",
+              "D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:913:32",
+              "Array.forEach (<anonymous>)",
+              "Vpc.createSubnetResources (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:895:28)",
+              "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
+              "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:17:15)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/VPC-tsc/VPC-tsc-PublicSubnet2/RouteTable": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "VPCtscVPCtscPublicSubnet2RouteTableAAF24F51",
+            "trace": [
+              "new Subnet (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1046:19)",
+              "new PublicSubnet (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1184:5)",
+              "D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:913:32",
+              "Array.forEach (<anonymous>)",
+              "Vpc.createSubnetResources (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:895:28)",
+              "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
+              "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:17:15)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/VPC-tsc/VPC-tsc-PublicSubnet2/RouteTableAssociation": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "VPCtscVPCtscPublicSubnet2RouteTableAssociationF830EE1D",
+            "trace": [
+              "new Subnet (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1052:5)",
+              "new PublicSubnet (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1184:5)",
+              "D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:913:32",
+              "Array.forEach (<anonymous>)",
+              "Vpc.createSubnetResources (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:895:28)",
+              "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
+              "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:17:15)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/VPC-tsc/VPC-tsc-PublicSubnet2/DefaultRoute": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "VPCtscVPCtscPublicSubnet2DefaultRoute7BCD8C0E",
+            "trace": [
+              "PublicSubnet.addDefaultInternetRoute (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1062:19)",
+              "D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:789:22",
+              "Array.forEach (<anonymous>)",
+              "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:788:46)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:17:15)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/VPC-tsc/VPC-tsc-PrivateSubnet1/Subnet": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "VPCtscVPCtscPrivateSubnet1SubnetAB708FC0",
+            "trace": [
+              "new Subnet (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1028:20)",
+              "new PrivateSubnet (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1216:5)",
+              "D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:923:34",
+              "Array.forEach (<anonymous>)",
+              "Vpc.createSubnetResources (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:895:28)",
+              "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
+              "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:17:15)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/VPC-tsc/VPC-tsc-PrivateSubnet1/RouteTable": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "VPCtscVPCtscPrivateSubnet1RouteTableE4774F99",
+            "trace": [
+              "new Subnet (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1046:19)",
+              "new PrivateSubnet (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1216:5)",
+              "D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:923:34",
+              "Array.forEach (<anonymous>)",
+              "Vpc.createSubnetResources (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:895:28)",
+              "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
+              "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:17:15)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/VPC-tsc/VPC-tsc-PrivateSubnet1/RouteTableAssociation": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "VPCtscVPCtscPrivateSubnet1RouteTableAssociationA0D61DB2",
+            "trace": [
+              "new Subnet (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1052:5)",
+              "new PrivateSubnet (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1216:5)",
+              "D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:923:34",
+              "Array.forEach (<anonymous>)",
+              "Vpc.createSubnetResources (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:895:28)",
+              "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
+              "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:17:15)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/VPC-tsc/VPC-tsc-PrivateSubnet2/Subnet": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "VPCtscVPCtscPrivateSubnet2SubnetC251E7D4",
+            "trace": [
+              "new Subnet (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1028:20)",
+              "new PrivateSubnet (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1216:5)",
+              "D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:923:34",
+              "Array.forEach (<anonymous>)",
+              "Vpc.createSubnetResources (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:895:28)",
+              "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
+              "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:17:15)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/VPC-tsc/VPC-tsc-PrivateSubnet2/RouteTable": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "VPCtscVPCtscPrivateSubnet2RouteTableA7F7A97F",
+            "trace": [
+              "new Subnet (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1046:19)",
+              "new PrivateSubnet (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1216:5)",
+              "D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:923:34",
+              "Array.forEach (<anonymous>)",
+              "Vpc.createSubnetResources (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:895:28)",
+              "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
+              "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:17:15)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/VPC-tsc/VPC-tsc-PrivateSubnet2/RouteTableAssociation": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "VPCtscVPCtscPrivateSubnet2RouteTableAssociationDB405338",
+            "trace": [
+              "new Subnet (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1052:5)",
+              "new PrivateSubnet (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:1216:5)",
+              "D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:923:34",
+              "Array.forEach (<anonymous>)",
+              "Vpc.createSubnetResources (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:895:28)",
+              "Vpc.createSubnets (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:884:12)",
+              "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:770:10)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:17:15)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/VPC-tsc/IGW": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "VPCtscIGWA904A34B",
+            "trace": [
+              "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:777:19)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:17:15)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/VPC-tsc/VPCGW": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "VPCtscVPCGW0EC044CD",
+            "trace": [
+              "new Vpc (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\vpc.ts:783:19)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:17:15)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/securityGroup/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "securityGroup32C48086",
+            "trace": [
+              "new SecurityGroup (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\security-group.ts:289:26)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:34:27)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/rds/SubnetGroup/Default": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "rdsSubnetGroup1CC412B5",
+            "trace": [
+              "new SubnetGroup (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-rds\\lib\\subnet-group.ts:48:25)",
+              "new DatabaseInstanceNew (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-rds\\lib\\instance.ts:354:46)",
+              "new DatabaseInstanceSource (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-rds\\lib\\instance.ts:505:5)",
+              "new DatabaseInstance (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-rds\\lib\\instance.ts:618:5)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:45:22)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/rds/Secret/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "EC2RDSStackrdsSecret27A1D2F63fdaad7efa858a3daf9490cf0a702aeb",
+            "trace": [
+              "new Secret (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-secretsmanager\\lib\\secret.ts:337:22)",
+              "new DatabaseSecret (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-rds\\lib\\database-secret.ts:37:5)",
+              "Object.renderCredentials (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-rds\\lib\\private\\util.ts:95:7)",
+              "new DatabaseInstance (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-rds\\lib\\instance.ts:620:25)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:45:22)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/rds/Secret/Attachment/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "rdsSecretAttachment197952CB",
+            "trace": [
+              "new SecretTargetAttachment (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-secretsmanager\\lib\\secret.ts:485:24)",
+              "DatabaseSecret.attach (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-secretsmanager\\lib\\secret.ts:220:12)",
+              "new DatabaseInstance (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-rds\\lib\\instance.ts:643:28)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:45:22)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/rds/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "rds3515897F",
+            "trace": [
+              "new DatabaseInstance (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-rds\\lib\\instance.ts:623:22)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:45:22)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/securitygroup ec2/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "securitygroupec29F9BCC13",
+            "trace": [
+              "new SecurityGroup (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\security-group.ts:289:26)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:63:28)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/simple-instance-role/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "simpleinstancerole2BADE793",
+            "trace": [
+              "new Role (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-iam\\lib\\role.ts:199:18)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:80:18)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/ec2Instance/InstanceProfile": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "ec2InstanceInstanceProfileD91A9EF4",
+            "trace": [
+              "new Instance (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\instance.ts:160:24)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:86:25)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/ec2Instance/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "ec2InstanceF91CE75A",
+            "trace": [
+              "new Instance (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\instance.ts:195:21)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:86:25)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/SsmParameterValue:--aws--service--ami-amazon-linux-latest--amzn-ami-hvm-x86_64-gp2:C96584B6-F00A-464E-AD19-53AFF4B05118.Parameter": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "SsmParameterValueawsserviceamiamazonlinuxlatestamznamihvmx8664gp2C96584B6F00A464EAD1953AFF4B05118Parameter",
+            "trace": [
+              "Function.fromStringParameterAttributes (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ssm\\lib\\parameter.ts:183:9)",
+              "Function.valueForTypedStringParameter (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ssm\\lib\\parameter.ts:234:17)",
+              "lookupImage (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\machine-image.ts:403:27)",
+              "AmazonLinuxImage.getImage (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\machine-image.ts:206:21)",
+              "new Instance (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-ec2\\lib\\instance.ts:165:44)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:86:25)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/ec2-output": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "ec2output",
+            "trace": [
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:100:5)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/myfirstbucket-typescript/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "myfirstbuckettypescriptB6E334CA",
+            "trace": [
+              "new Bucket (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\lib\\bucket.ts:713:22)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:104:5)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/myfirstbucket-typescript/Policy/Resource": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "myfirstbuckettypescriptPolicyB9AF1D1F",
+            "trace": [
+              "new BucketPolicy (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\lib\\bucket-policy.ts:30:21)",
+              "Bucket.addToResourcePolicy (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\lib\\bucket.ts:227:21)",
+              "Bucket.enableAutoDeleteObjects (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\lib\\bucket.ts:1157:10)",
+              "new Bucket (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\lib\\bucket.ts:780:12)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:104:5)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/myfirstbucket-typescript/AutoDeleteObjectsCustomResource/Default": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "myfirstbuckettypescriptAutoDeleteObjectsCustomResourceB5009252",
+            "trace": [
+              "new CustomResource (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\node_modules\\@aws-cdk\\core\\lib\\custom-resource.ts:36:21)",
+              "Bucket.enableAutoDeleteObjects (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\lib\\bucket.ts:1170:28)",
+              "new Bucket (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\lib\\bucket.ts:780:12)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:104:5)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/Custom::S3AutoDeleteObjectsCustomResourceProvider/Role": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CustomS3AutoDeleteObjectsCustomResourceProviderRole3B1BD092",
+            "trace": [
+              "new CustomResourceProvider (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\node_modules\\@aws-cdk\\core\\lib\\custom-resource-provider\\custom-resource-provider.ts:113:18)",
+              "Function.getOrCreateProvider (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\node_modules\\@aws-cdk\\core\\lib\\custom-resource-provider\\custom-resource-provider.ts:69:10)",
+              "Bucket.enableAutoDeleteObjects (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\lib\\bucket.ts:1149:45)",
+              "new Bucket (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\lib\\bucket.ts:780:12)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:104:5)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/Custom::S3AutoDeleteObjectsCustomResourceProvider/Handler": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CustomS3AutoDeleteObjectsCustomResourceProviderHandler9D90184F",
+            "trace": [
+              "new CustomResourceProvider (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\node_modules\\@aws-cdk\\core\\lib\\custom-resource-provider\\custom-resource-provider.ts:131:21)",
+              "Function.getOrCreateProvider (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\node_modules\\@aws-cdk\\core\\lib\\custom-resource-provider\\custom-resource-provider.ts:69:10)",
+              "Bucket.enableAutoDeleteObjects (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\lib\\bucket.ts:1149:45)",
+              "new Bucket (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\lib\\bucket.ts:780:12)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:104:5)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/AssetParameters/00f2465b209575c44977ca8ff1c81d86d002849272ede5a8a90ac87dfff1e494/S3Bucket": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "AssetParameters00f2465b209575c44977ca8ff1c81d86d002849272ede5a8a90ac87dfff1e494S3Bucket33B61C3E",
+            "trace": [
+              "new FileAssetParameters (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\asset-parameters.ts:16:32)",
+              "LegacyStackSynthesizer.doAddFileAsset (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\stack-synthesizers\\legacy.ts:144:16)",
+              "LegacyStackSynthesizer.addFileAsset (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\stack-synthesizers\\legacy.ts:66:19)",
+              "EC2RDSStack.addFileAsset (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\stack.ts:355:29)",
+              "LegacyStackSynthesizer.addFileAsset (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\stack-synthesizers\\legacy.ts:70:25)",
+              "EC2RDSStack.addFileAsset (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\stack.ts:355:29)",
+              "new CustomResourceProvider (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\node_modules\\@aws-cdk\\core\\lib\\custom-resource-provider\\custom-resource-provider.ts:97:25)",
+              "Function.getOrCreateProvider (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\node_modules\\@aws-cdk\\core\\lib\\custom-resource-provider\\custom-resource-provider.ts:69:10)",
+              "Bucket.enableAutoDeleteObjects (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\lib\\bucket.ts:1149:45)",
+              "new Bucket (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\lib\\bucket.ts:780:12)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:104:5)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/AssetParameters/00f2465b209575c44977ca8ff1c81d86d002849272ede5a8a90ac87dfff1e494/S3VersionKey": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "AssetParameters00f2465b209575c44977ca8ff1c81d86d002849272ede5a8a90ac87dfff1e494S3VersionKeyDE2514FF",
+            "trace": [
+              "new FileAssetParameters (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\asset-parameters.ts:21:31)",
+              "LegacyStackSynthesizer.doAddFileAsset (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\stack-synthesizers\\legacy.ts:144:16)",
+              "LegacyStackSynthesizer.addFileAsset (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\stack-synthesizers\\legacy.ts:66:19)",
+              "EC2RDSStack.addFileAsset (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\stack.ts:355:29)",
+              "LegacyStackSynthesizer.addFileAsset (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\stack-synthesizers\\legacy.ts:70:25)",
+              "EC2RDSStack.addFileAsset (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\stack.ts:355:29)",
+              "new CustomResourceProvider (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\node_modules\\@aws-cdk\\core\\lib\\custom-resource-provider\\custom-resource-provider.ts:97:25)",
+              "Function.getOrCreateProvider (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\node_modules\\@aws-cdk\\core\\lib\\custom-resource-provider\\custom-resource-provider.ts:69:10)",
+              "Bucket.enableAutoDeleteObjects (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\lib\\bucket.ts:1149:45)",
+              "new Bucket (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\lib\\bucket.ts:780:12)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:104:5)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/AssetParameters/00f2465b209575c44977ca8ff1c81d86d002849272ede5a8a90ac87dfff1e494/ArtifactHash": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "AssetParameters00f2465b209575c44977ca8ff1c81d86d002849272ede5a8a90ac87dfff1e494ArtifactHashC2E6E6C0",
+            "trace": [
+              "new FileAssetParameters (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\asset-parameters.ts:26:34)",
+              "LegacyStackSynthesizer.doAddFileAsset (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\stack-synthesizers\\legacy.ts:144:16)",
+              "LegacyStackSynthesizer.addFileAsset (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\stack-synthesizers\\legacy.ts:66:19)",
+              "EC2RDSStack.addFileAsset (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\stack.ts:355:29)",
+              "LegacyStackSynthesizer.addFileAsset (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\stack-synthesizers\\legacy.ts:70:25)",
+              "EC2RDSStack.addFileAsset (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\stack.ts:355:29)",
+              "new CustomResourceProvider (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\node_modules\\@aws-cdk\\core\\lib\\custom-resource-provider\\custom-resource-provider.ts:97:25)",
+              "Function.getOrCreateProvider (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\node_modules\\@aws-cdk\\core\\lib\\custom-resource-provider\\custom-resource-provider.ts:69:10)",
+              "Bucket.enableAutoDeleteObjects (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\lib\\bucket.ts:1149:45)",
+              "new Bucket (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\aws-s3\\lib\\bucket.ts:780:12)",
+              "new EC2RDSStack (D:\\Typescript\\vpc-cdk\\lib\\EC2 RDS- stack.ts:104:5)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\bin\\vpc-cdk.ts:11:1)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Module.m._compile (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1056:23)",
+              "Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Object.require.extensions.<computed> [as .ts] (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\index.ts:1059:12)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "main (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:198:14)",
+              "Object.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\ts-node\\src\\bin.ts:288:3)",
+              "Module._compile (internal/modules/cjs/loader.js:1072:14)",
+              "Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)",
+              "Module.load (internal/modules/cjs/loader.js:937:32)",
+              "Function.Module._load (internal/modules/cjs/loader.js:778:12)",
+              "Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)",
+              "internal/main/run_main_module.js:17:47"
+            ]
+          }
+        ],
+        "/EC2RDSStack/CDKMetadata/Default": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CDKMetadata",
+            "trace": [
+              "new MetadataResource (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\metadata-resource.ts:22:24)",
+              "D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\synthesis.ts:166:5",
+              "visit (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\synthesis.ts:231:5)",
+              "visit (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\synthesis.ts:227:5)",
+              "injectMetadataResources (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\synthesis.ts:157:3)",
+              "Object.synthesize (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\synthesis.ts:18:3)",
+              "App.synth (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\stage.ts:94:23)",
+              "process.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\app.ts:64:45)",
+              "Object.onceWrapper (events.js:520:26)",
+              "process.emit (events.js:400:28)",
+              "process.emit (domain.js:470:12)",
+              "process.emit (D:\\Typescript\\vpc-cdk\\node_modules\\source-map-support\\source-map-support.js:516:21)"
+            ]
+          }
+        ],
+        "/EC2RDSStack/CDKMetadata/Condition": [
+          {
+            "type": "aws:cdk:logicalId",
+            "data": "CDKMetadataAvailable",
+            "trace": [
+              "new MetadataResource (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\metadata-resource.ts:31:27)",
+              "D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\synthesis.ts:166:5",
+              "visit (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\synthesis.ts:231:5)",
+              "visit (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\synthesis.ts:227:5)",
+              "injectMetadataResources (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\synthesis.ts:157:3)",
+              "Object.synthesize (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\private\\synthesis.ts:18:3)",
+              "App.synth (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\stage.ts:94:23)",
+              "process.<anonymous> (D:\\Typescript\\vpc-cdk\\node_modules\\@aws-cdk\\core\\lib\\app.ts:64:45)",
+              "Object.onceWrapper (events.js:520:26)",
+              "process.emit (events.js:400:28)",
+              "process.emit (domain.js:470:12)",
+              "process.emit (D:\\Typescript\\vpc-cdk\\node_modules\\source-map-support\\source-map-support.js:516:21)"
+            ]
+          }
+        ]
+      },
+      "displayName": "EC2RDSStack"
     }
   }
 }
